@@ -42,7 +42,7 @@ cd zoomfake
 #install dependencies
 npm install]
 
-#project link(https://builder.io/app/projects/193bf1c9defd4d7f878bf071b72357c9/main)
+project link(https://builder.io/app/projects/193bf1c9defd4d7f878bf071b72357c9/main)
 
 # Run
 [npv erun dev
